@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import Header from './components/Header';
-import Banner from './components/Banner';
-import FunFact from './components/FunFact';
-import Sidebar from './components/Sidebar';
+import Header from './Header';
+import Banner from './Banner';
+import FunFact from './FunFact';
+import Sidebar from './Sidebar';
 
 function App() {
   return (
